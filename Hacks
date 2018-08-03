@@ -1,0 +1,9 @@
+How to revelar the hiden cache password by ***** in a website:
+Use Inspect Element to make browser reveal password
+This is another trick which works for most major browsers. You can use the Inspect Element option in almost all the browsers including Internet Explorer, Chrome, Firefox as well as Microsoft Edge to see the saved password for a particular website.
+
+To do this, open a log in page of a site like Facebook, Outlook.com, Gmail, etc. Now, right click in the password box and select Inspect Element.
+
+Double click on it, remove the word, password and write text instead of password. That means, after editing the line, it should look like this –  type=”text”.
+
+<INPUT size=16 type=text value="******" />
