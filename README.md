@@ -1,2 +1,2 @@
-# Hacks
-Small hacks for a Sys Admin day to day job.
+# Security
+Small security tools for a Sys Admin day to day job
