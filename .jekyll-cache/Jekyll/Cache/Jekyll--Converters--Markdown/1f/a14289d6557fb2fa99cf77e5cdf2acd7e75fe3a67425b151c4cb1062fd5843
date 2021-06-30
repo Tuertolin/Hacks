@@ -1,6 +1,7 @@
-I"P<p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code class="language-plaintext highlighter-rouge">keyword</code>.</p>
+I"®<p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code class="language-plaintext highlighter-rouge">keyword</code>.</p>
 
-<p><a href="./another-page.html">Link to another page</a>.</p>
+<p><a href="./another-page.html">Link to another page</a>.
+<a href="./pages/s3/bucket-owner-full-control.html">Link to s3 bucket owner full control</a>.</p>
 
 <p>There should be whitespace between paragraphs.</p>
 
